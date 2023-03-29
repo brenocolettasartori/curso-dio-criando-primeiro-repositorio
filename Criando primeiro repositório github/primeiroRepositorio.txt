@@ -1,0 +1,10 @@
+1 - Repositório github criado
+2 - Pega link HTTPS
+3 - Abri git bash na pasta criada localmente no computador
+4 - git clone https://github.com/brenocolettasartori/curso-dio-criando-primeiro-repositorio.git
+5 - Adiciona pastas e arquivos localmente no computador
+6 - git status
+7 - git add *
+8 - git commit -m "mensagem"
+8 - git push main
+
