@@ -1,0 +1,13 @@
+INSTALANDO O GIT 
+--> https://git-scm.com/downloads
+
+FUNCIONAMENTO DO GIT
+--> SHA1 - algoritmo de criptografia
+--> Objetos Internos do Git:
+	* Blobs
+	* Tree
+	* Commit
+--> Chaves SSH: forma segura de estabelecer conexão entre 2 máquinas
+	* ssh-keygen -t ed25519 -c email
+
+--> Tokens
